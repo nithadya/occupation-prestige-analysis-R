@@ -1,0 +1,2 @@
+"Test","P_Value","Conclusion"
+"ANOVA",2.11678103823271e-25,"The difference in prestige between occupation types is statistically significant. We reject the null hypothesis."
